@@ -1,4 +1,4 @@
-# Proyectojuego1
+# Proyectojuego1 en c++
 Creacion de un proyecto de programacion para la materia de logica computacional
 
 El jugador encarna a un héroe que recorre un calabozo enfrentándose a una serie de enemigos y tomando decisiones estratégicas para sobrevivir, dentro de este mundo ñas preguntas jugarán un papel fundamental buscando determinar el valor o la decadencia del heroe. Durante el juego, el jugador tendrá que decidir si luchar o huir, y ganará puntos o perderá vida dependiendo de sus decisiones y de los resultados de los enfrentamientos.
